@@ -1,0 +1,41 @@
+Blockchain – Assignment 1 (18/07/2020)
+
+Set of Questions: 
+1)	What is your understanding of Blockchain?
+2)	What are the core problems Blockchain trying to solve?
+3)	What are the few features which Blockchain will give you?
+4)	What all things does a Block Contain?
+5)	How is the verifiability of Blockchain is been attained?
+
+Answer set:
+
+Q1:  What is your understanding of Blockchain?
+Answer :  In the common terms, blockchain can be refer as a ledger, which is file system constantly growing on some basic pillars like secure, permanent, chronological at the same time immutable. The information is collected/stored in the forms of blocks, which is intern-connected in the forms of chain. The data stored in those blocks are permanent in nature. For tracking down easily the order of blocks, a mechanism of pervious block key is maintained along with timestamp and data.   
+
+
+Q2: What are the core problems Blockchain trying to solve?
+Answer:  The core problems can be listed as:
+•	Authenticity:  Any person can alter data, there was no certain way to authenticate that person’s creditability.
+•	Security: Security was not enough to protect the data from tramping it.
+•	Third party trust: A question was always on rise, whether these third party can be trusted. The power of these parties leave no option for small scale business to grow itself independently.
+
+Q3: What are the few features which Blockchain will give you?
+Answer: Blockchain provides us a way for storing the information in such an environment where following of the things are maintained: 
+•	Security
+•	Data Transparency 
+•	No hacking boost
+•	Decentralized
+•	Immutable
+
+Q4: What all things does a Block Contain?
+Answer:  Block contains: 
+1)	Block number
+2)	Transactions Records
+3)	Pervious block signature
+4)	Mining key
+Where the 1st block is also known as Genesis Block (which has no pervious key). 
+
+Q5: How is the verifiability of Blockchain is been attained?
+Answer: Block in the blockchain, is verifiable on the bases of distributed database system and cryptography. Each block has its own unique key along with identical data. In a set of uses if any user tamper with data, then it can be easily verified by comparing it with other uses of that set. 
+
+
